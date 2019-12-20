@@ -1,2 +1,9 @@
- # Define a local variable called 'greeting',
+learngreeting ="helloworld"
+puts "helloworld"
+filter_parameter_logging
+filter_parameter_logging# Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
+greeting = "helloworld"
+puts "helloworld"
+filter_parameter_logging
+filter_parameter_logging
